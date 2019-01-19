@@ -1,0 +1,20 @@
+===============================================
+Bo¾ydar Zima
+data urodzenia: 13.06.1969r
+stopien naukowy: dr
+prowadzony przedmiot: Informatyka
+===============================================
+Adam Man
+data urodzenia: 11.11.1911r
+stopien naukowy: prof.
+prowadzony przedmiot: Matematyka
+===============================================
+Anna Niewiadomska
+data urodzenia: 01.01.1970r
+stopien naukowy: dr
+prowadzony przedmiot: Krystalografia
+===============================================
+Jan Kowalski
+data urodzenia: 12.12.1998r
+stopien naukowy: mgr
+prowadzony przedmiot: PO

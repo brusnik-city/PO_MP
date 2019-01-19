@@ -1,0 +1,16 @@
+===============================================
+Magdalena Kowalska
+data urodzenia: 13.10.1998r
+numer indeksu: 299111
+===============================================
+Kamil Nowak
+data urodzenia: 14.05.1997r
+numer indeksu: 279555
+===============================================
+Patryk Krakowski
+data urodzenia: 15.01.1997r
+numer indeksu: 287456
+===============================================
+Janusz Kruk
+data urodzenia: 14.09.1993r
+numer indeksu: 123456

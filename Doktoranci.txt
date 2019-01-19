@@ -1,0 +1,18 @@
+===============================================
+Kryspin Kanapka
+data urodzenia: 12.12.1988r
+numer indeksu: 112233
+stopien naukowy: mgr
+prowadzony przedmiot: Elektronika
+===============================================
+Marcin Migacz
+data urodzenia: 31.02.1977r
+numer indeksu: 113344
+stopien naukowy: in¾.
+prowadzony przedmiot: Fizyka
+===============================================
+Idzi Kawa
+data urodzenia: 14.10.1988r
+numer indeksu: 445566
+stopien naukowy: mgr
+prowadzony przedmiot: Systemy
